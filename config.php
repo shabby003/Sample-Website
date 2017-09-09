@@ -5,6 +5,7 @@
  *
  * @var string
  */
+ <a href="about-us.php">linking to the other page</a>
 function config($key = '')
 {
     $config = [
